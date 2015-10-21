@@ -1,4 +1,4 @@
-iOS-Game-SpeedWords
+iOS Game SpeedWords
 ===================
 
 Game speed test.
